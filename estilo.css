@@ -1,4 +1,8 @@
 h1{
     text-align: center;
     font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: aliceblue;
+    height: 100px;
 }
